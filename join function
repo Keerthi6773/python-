@@ -1,0 +1,3 @@
+a="KEERTHI YADAV is fROM HYDERBAD and innocent"
+b="keeru ".join("cute" for i in a if i in "AEIOU")
+print(b)
