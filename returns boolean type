@@ -1,0 +1,11 @@
+a = "6"
+b= a.isupper()
+c= a.isdigit()
+d= a.isalpha()
+e= a.islower()
+f= a.isalnum()
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
