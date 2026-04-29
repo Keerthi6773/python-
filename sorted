@@ -1,0 +1,3 @@
+a = "amdhfiueurdnhsdb"
+b = sorted(a,reverse = True)
+print(b)
