@@ -1,0 +1,8 @@
+a = "TVK is good"
+b=a.split()
+print(b)
+
+
+a = "TVK is good and mass and cool"
+b=a.split("and")
+print(b)
