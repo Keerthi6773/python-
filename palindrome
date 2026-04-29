@@ -1,0 +1,7 @@
+ s = s.lower()
+        s = "".join(i for i in s if i.isalnum())
+        rev = s[::-1]
+        if rev == s:
+            return True
+        else:
+           return False
